@@ -1,2 +1,0 @@
-# teacozy
-# teacozy2
