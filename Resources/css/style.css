@@ -81,8 +81,6 @@ height: 200px;
 .locations {
 opacity: 1.0;
 padding: 10px;
-margin: 40px;
-background-color: black;
 flex-basis: 280px;
 display: flex;
 flex-direction: row;
@@ -91,7 +89,7 @@ align-items: center;
 }
 
 #locations h2 {
-  padding-top:20px;
+  padding-top: 30px;
 }
 
 footer {
@@ -101,4 +99,14 @@ footer {
 
 .contact {
   height: 200px;
+}
+
+.location {
+  background-color: black;
+  width: 27%;
+  height: 300px;
+  margin: auto;
+  line-height: 40px;
+  opacity: 1;
+  padding-top:15px;
 }
